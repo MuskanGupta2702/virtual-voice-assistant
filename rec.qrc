@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="redc">
+    <file>imgpsh_fullsize_anim.gif</file>
+  </qresource>
+</RCC>
